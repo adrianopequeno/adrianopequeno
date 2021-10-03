@@ -1,4 +1,5 @@
 ### Olá, Me Adriano Pequeno, Sou de Patos-PB!
+</hr>
 
 \- 🎓 Formado em Ciências da Computação Pela Universidade Estadual da Paraíba (UEPB)
 
