@@ -4,7 +4,7 @@
 
 \- 🖥️ Já possuo experiência com Desenvolvimento Front-End, Back-End 
 
-\- 💼 Atualmente sou Técnico em telecomunicações.
+\- 💼 Atualmente sou Desenvolvedor Java Pleno na Compasso UOL.
 ##
 <div align="center" >
   <a href="https://github.com/adrianopequeno">
