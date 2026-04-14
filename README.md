@@ -2,7 +2,7 @@
 
 \- 🎓 Formado em Ciências da Computação Pela Universidade Estadual da Paraíba (UEPB)
 
-\- 🖥️ Já possuo experiência com Desenvolvimento Front-End, Back-End 
+\- 🖥️ Experiência com Desenvolvimento Front-End, Back-End 
 
 \- 💼 
 ##
